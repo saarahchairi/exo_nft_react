@@ -1,0 +1,18 @@
+.visual {
+    width: 100%;
+    height: 18rem;
+    border-radius: 10px;
+    background-image: url("../images/image-equilibrium.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.visual:hover{
+    background-image: url("../images/image-equilibrium.jpg"), url("../images/icon-view.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover, 20%;
+    background-color: hsla(178, 100%, 50%, 0.448);
+    background-blend-mode: overlay;
+}

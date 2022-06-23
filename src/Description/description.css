@@ -1,0 +1,23 @@
+.description h2{
+    color: hsl(0, 0%, 100%);
+}
+
+.description h2:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+.description .para, .time{
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+}
+.description .value{
+    color: hsl(178, 100%, 50%);
+    font-size: 18px;
+}
+
+.description .info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+}
