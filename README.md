@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# NFT preview card component
+
+## Consigne
+
+Ici le but de ce Challenge est de vous exercer avec notion de components. Vous allez donc reproduire la cards en prenant le temps de bien tout separer en components. Dans le dossier design qui est fourni vous avez des screens du resultats bonne chance a vous !!!!!!
+# exo_nft_react
